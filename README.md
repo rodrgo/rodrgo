@@ -6,15 +6,21 @@
 <table>
   <tr>
     <td rowspan="2">
-      <img src="https://stats.quine.sh/rms/web3" alt="We should do a cryptocat widget" width="300px">
+      <a href="https://quine.sh" target="_blank">
+        <img src="https://stats.quine.sh/rms/web3" alt="We should do a cryptocat widget" width="300px">
+      </a>
     </td>
     <td colspan="32">
-      <img src="https://stats.quine.sh/rms/snapshot" alt="Voting shows good citizenship" width="400px">
+      <a href="https://quine.sh" target="_blank">
+        <img src="https://stats.quine.sh/rms/snapshot" alt="Voting shows good citizenship" width="400px">
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://stats.quine.sh/rms/poap" alt="My POAP collection" width="400px">
+      <a href="https://quine.sh" target="_blank">
+        <img src="https://stats.quine.sh/rms/poap" alt="My POAP collection" width="400px">
+      </a>
     </td>
   </tr>
 </table>
