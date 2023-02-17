@@ -12,14 +12,14 @@
     </td>
     <td colspan="32">
       <a href="https://quine.sh" target="_blank">
-        <img src="https://stats.quine.sh/rms/snapshot" alt="Voting shows good citizenship" width="400px">
+        <img src="https://stats.quine.sh/rms/stack-overflow?theme=dark" alt="Voting shows good citizenship" width="400px">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://quine.sh" target="_blank">
-        <img src="https://stats.quine.sh/rms/poap" alt="My POAP collection" width="400px">
+        <img src="https://stats.quine.sh/rms/languages-over-time?theme=dark" alt="My POAP collection" width="400px">
       </a>
     </td>
   </tr>
