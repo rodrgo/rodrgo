@@ -7,14 +7,14 @@
   <tr>
     <td rowspan=2>
       <a href="https://quine.sh" target="_blank">
-        <img src="https://stats.quine.sh/rms/web3" alt="We should do a cryptocat widget" width="300px">
+        <img src="https://stats.quine.sh/rms/github?theme=dark" alt="My GitHub Stats" width="300px">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://quine.sh" target="_blank">
-        <img src="https://stats.quine.sh/rms/languages-over-time?theme=dark" alt="My POAP collection" width="400px">
+        <img src="https://stats.quine.sh/rms/dependencies?theme=dark" alt="Torch <3" width="400px">
       </a>
     </td>
   </tr>
