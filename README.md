@@ -1,3 +1,3 @@
-- 🖖 I'm Rodrigo, but I also go by @rodrgo, [@rms](https://qui.ne/rms), or [@r0dms](https://twitter.com/r0dms)
+- 🖖 I'm Rodrigo, but I also go by @rodrgo, @rms, or [@r0dms](https://twitter.com/r0dms)
 - 🧮 I’m into maths, data, and economics.
-- 🔮 On a mission to turn open source into a positive-sum game.jkj
+- 🔮 On a mission to turn open source into a positive-sum game.
